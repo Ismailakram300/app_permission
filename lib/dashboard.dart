@@ -100,7 +100,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                     ),Padding(
                       padding: const EdgeInsets.all(6.0),
                       child: Mycard(
-                        color: Colors.purple.shade100,
+                        color: Colors.deepPurple.shade100,
                         name: 'More Like',
                         icon: Icons.dark_mode,
                       ),
