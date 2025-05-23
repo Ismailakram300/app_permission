@@ -102,7 +102,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                       child: Mycard(
                         color: Colors.purple.shade100,
                         name: 'More Like',
-                        icon: Icons.dark_mode,
+                        imagePath: 'assets/wifi.png',
                       ),
                     ),
 
@@ -118,14 +118,12 @@ class _DashboardScreenState extends State<DashboardScreen> {
 }
 class Mycard extends StatelessWidget {
   String name;
-  IconData icon;
+  final String imagePath;
   Color color;
-  Color? Iconcolor=Colors.black45;
    Mycard({
-     this.Iconcolor,
+     required this.imagePath,
     required this.color,
     required this.name,
-    required this.icon,
 
   });
 
@@ -138,8 +136,15 @@ class Mycard extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Icon(icon,color: Iconcolor, size: 18),
           Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: Image.asset(
+              imagePath,
+              height: 40,
+              width: 40,
+             // optional tint
+            ),
+          ),          Padding(
             padding: const EdgeInsets.all(10.0),
             child: Text(
               name,

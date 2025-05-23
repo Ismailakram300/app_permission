@@ -59,6 +59,15 @@ flutter:
   assets:
     - assets/logo.png
     - assets/locations.png
+    - assets/contact.png
+    - assets/email.png
+    - assets/event.png
+    - assets/insta.png
+    - assets/text.png
+    - assets/website.png
+    - assets/whatsapp.png
+    - assets/wifi.png
+    - assets/x.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
