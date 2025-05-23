@@ -25,7 +25,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                   IconButton(onPressed: () {
 
                   //  showDialog(context: context, builder: (context) => ,)
-                  }, icon: Icon(Icons.mail_sharp,size: 35)
+                  }, icon: Icon(Icons.add,size: 35)
 
                   ),
                 ],
