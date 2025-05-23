@@ -88,7 +88,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                       child: Mycard(
                         color: Colors.purple.shade100,
                         name: 'More Like',
-                        icon: Icons.offline_share_outlined,
+                        icon: Icons.access_time_rounded,
                       ),
                     ),Padding(
                       padding: const EdgeInsets.all(6.0),
