@@ -117,7 +117,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
   }
 }
 class Mycard extends StatelessWidget {
-  String name;
+  String NAME;
   IconData icon;
   Color color;
   Color? Iconcolor=Colors.black45;
