@@ -59,6 +59,7 @@ flutter:
   assets:
     - assets/logo.png
     - assets/locations.png
+    - assets/scanner.png
     - assets/contact.png
     - assets/email.png
     - assets/event.png
