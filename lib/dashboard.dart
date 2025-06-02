@@ -94,7 +94,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                         child: Image.asset(
                           'assets/scanner.png',
                           height: 70,
-                          width: 70,
+                          width:90,
                           // optional tint
                         ),
                       ),
