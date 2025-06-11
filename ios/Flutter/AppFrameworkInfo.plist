@@ -7,8 +7,7 @@
   <key>CFBundleExecutable</>
   <string>App</st
   <key>CFBundleIdentifier</key>
-  <string>io.flutter.flutter.app</string>
-  <key>CFBundleInfoDictionaryVersion</key>
+=  <key>CFBundleInfoDictionaryVersion</key>
   <string>6.0</string>
   <key>CFBundleName</key>
   <string>App</string>
