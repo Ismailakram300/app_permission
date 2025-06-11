@@ -5,9 +5,7 @@
   <key>CFBundleDevelopmentRegion</key>
   <string>en</string>
   <key>CFBundleExecutable</>
-  <string>App<
-
-  <key>CFBundleIdentifier</key>
+  <string>App<  <key>CFBundleIdentifier</key>
 =  <key>CFBundleInfoDictionaryVersion</key>
   <string>6.0</string>
   <key>CFBundleName</key>
