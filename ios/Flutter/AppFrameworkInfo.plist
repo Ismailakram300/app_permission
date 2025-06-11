@@ -5,7 +5,7 @@
   <key>CFBundleDevelopmentRegion</key>
   <string>en</string>
   <key>CFBundleExecutable</key>
-  <string>App</string>
+  <string>App</stri
   <key>CFBundleIdentifier</key>
   <string>io.flutter.flutter.app</string>
   <key>CFBundleInfoDictionaryVersion</key>
