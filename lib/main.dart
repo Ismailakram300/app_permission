@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
 
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home:  MyHomeScreen(title: 'Home   Page'),
+      home:  MyHomeScreen(title: 'Home screen  Page'),
     );
   }
 }
